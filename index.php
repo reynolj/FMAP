@@ -29,7 +29,7 @@ require("structure/top.php"); //Include the sidebar HTML
 
             <div class="card card-primary card-outline">
                 <div class="card-header">
-                    <h5 class="m-0">Card Header Here</h5>
+                    <h5 class="m-0">Function Mapping</h5>
                 </div>
                 <div class="card-body">
                     <!-- Place page content here -->

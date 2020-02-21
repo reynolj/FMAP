@@ -25,7 +25,7 @@ if($title == ""){
 
   <!-- jQuery -->
   <script src="AdminLTE/plugins/jquery/jquery.min.js"></script>
-
+  <script src="math.min.js"></script>
 </head>
 <body class="hold-transition sidebar-mini">
 <div class="wrapper">
@@ -53,43 +53,29 @@ if($title == ""){
   <aside class="main-sidebar sidebar-dark-primary elevation-4">
     <!-- Brand Logo -->
     <a href="index.php" class="brand-link" style="background-color: #fff;">
-      <img src="AdminLTE/dist/img/logo.png" alt="Organic Transformations Logo" class="brand-image img-circle elevation-1"
+      <img src="AdminLTE/dist/img/fmap_logo4.png" alt="FMAP Logo" class="brand-image-xl"
            style="opacity: .9">
-      <span class="brand-text font-weight-bold" style="color: #333; font-size: 1.05rem;">Organic</span>
-      <span class="brand-text" style="color: #333; font-size: 1.05rem;">Transformations</span>
     </a>
 
     <!-- Sidebar -->
     <div class="sidebar">
-      /*<!-- Sidebar user panel (optional) -->
-      <div class="user-panel mt-3 pb-3 mb-3 d-flex">
-        <div class="image">
-          <img src="AdminLTE/dist/img/avatar5.png" class="img-circle elevation-2" alt="User Image">
-        </div>
-        <div class="info">
-          <a href="#" class="d-block"><?php echo 'Jason Henning'; ?></a>
-        </div>
-      </div>*/
-
       <!-- Sidebar Menu -->
       <nav class="mt-2">
         <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
 
           <li class="nav-item">
-            //<a href="index.php" class="nav-link active">
-              <i class="nav-icon fas fa-home"></i>
+            <a href="index.php" class="nav-link active">
               <p>
-                Simple Function Mapping
+               Simple Mapping
               </p>
             </a>
           </li>
 
 
           <li class="nav-item">
-            <a href="index2.php" class="nav-link">
-              //<i class="nav-icon fas fa-leaf"></i>
+            <a href="index.php" class="nav-link">
               <p>
-                Composition Function Mapping
+               Composition Mapping
               </p>
             </a>
           </li>

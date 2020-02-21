@@ -76,7 +76,7 @@ if($title == ""){
         <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
 
           <li class="nav-item">
-            <a href="index.php" class="nav-link active">
+            //<a href="index.php" class="nav-link active">
               <i class="nav-icon fas fa-home"></i>
               <p>
                 Simple Function Mapping
@@ -87,57 +87,13 @@ if($title == ""){
 
           <li class="nav-item">
             <a href="index2.php" class="nav-link">
-              <i class="nav-icon fas fa-leaf"></i>
+              //<i class="nav-icon fas fa-leaf"></i>
               <p>
                 Composition Function Mapping
               </p>
             </a>
           </li>
 
-          <li class="nav-item">
-            <a href="index2.php" class="nav-link">
-              <i class="nav-icon fas fa-dumbbell"></i>
-              <p>
-                Exercises
-              </p>
-            </a>
-          </li>
-
-          <li class="nav-item">
-            <a href="index2.php" class="nav-link">
-              <i class="nav-icon fas fa-th-large"></i>
-              <p>
-                Guides
-              </p>
-            </a>
-          </li>
-
-          <li class="nav-item">
-            <a href="index2.php" class="nav-link">
-              <i class="nav-icon fas fa-hands-helping"></i>
-              <p>
-                Private Coaching
-              </p>
-            </a>
-          </li>
-
-          <li class="nav-item">
-            <a href="index2.php" class="nav-link">
-              <i class="nav-icon fas fa-question-circle"></i>
-              <p>
-                Help
-              </p>
-            </a>
-          </li>
-
-          <li class="nav-item">
-            <a href="logout.php" class="nav-link">
-              <i class="nav-icon fas fa-sign-out-alt"></i>
-              <p>
-                Logout
-              </p>
-            </a>
-          </li>
 
         </ul>
       </nav>

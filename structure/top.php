@@ -1,6 +1,6 @@
 <?php
 if($title == ""){
-	$title = "Organic Transformations";
+	$title = "FMAP";
 }
 
 
@@ -61,7 +61,7 @@ if($title == ""){
 
     <!-- Sidebar -->
     <div class="sidebar">
-      <!-- Sidebar user panel (optional) -->
+      /*<!-- Sidebar user panel (optional) -->
       <div class="user-panel mt-3 pb-3 mb-3 d-flex">
         <div class="image">
           <img src="AdminLTE/dist/img/avatar5.png" class="img-circle elevation-2" alt="User Image">
@@ -69,7 +69,7 @@ if($title == ""){
         <div class="info">
           <a href="#" class="d-block"><?php echo 'Jason Henning'; ?></a>
         </div>
-      </div>
+      </div>*/
 
       <!-- Sidebar Menu -->
       <nav class="mt-2">
@@ -79,7 +79,7 @@ if($title == ""){
             <a href="index.php" class="nav-link active">
               <i class="nav-icon fas fa-home"></i>
               <p>
-                Home
+                Simple Function Mapping
               </p>
             </a>
           </li>
@@ -89,7 +89,7 @@ if($title == ""){
             <a href="index2.php" class="nav-link">
               <i class="nav-icon fas fa-leaf"></i>
               <p>
-                Nutrition
+                Composition Function Mapping
               </p>
             </a>
           </li>

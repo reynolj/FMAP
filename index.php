@@ -4,6 +4,19 @@ $title = "FMAP | Home"; //Set the browser title
 $highlight = "index"; //Select which tab in the navigation to highlight
 require("structure/top.php"); //Include the sidebar HTML
 ?>
+
+<head>
+
+    <script> type = "text/javascript">
+        const math = require("math.min.js");
+
+
+
+
+    </script>
+
+
+</head>
 <!-- Content Wrapper. Contains page content -->
 <div class="content-wrapper">
     <!-- Content Header (Page header) -->

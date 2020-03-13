@@ -27,7 +27,7 @@ if($title == ""){
   <script src="AdminLTE/plugins/jquery/jquery.min.js"></script>
   <script src="math.min.js"></script>
 </head>
-<body class="hold-transition sidebar-mini">
+<body class="sidebar-mini layout-navbar-fixed">
 <div class="wrapper">
 
   <!-- Navbar -->
